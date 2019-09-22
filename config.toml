@@ -1,0 +1,4 @@
+baseURL = "http://blockchenlab.github.io"
+languageCode = "en-us"
+title = "Computational Healthcare Analytics Lab"
+theme = "ananke"

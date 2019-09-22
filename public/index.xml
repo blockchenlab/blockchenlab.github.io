@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Healthcare Analytics Lab</title>
+    <link>http://blockchenlab.github.io/</link>
+    <description>Recent content on Computational Healthcare Analytics Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Sep 2019 15:02:40 -0400</lastBuildDate>
+    
+	<atom:link href="http://blockchenlab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recruiting Lab Members</title>
+      <link>http://blockchenlab.github.io/posts/recruiting-lab-members/</link>
+      <pubDate>Sun, 22 Sep 2019 15:02:40 -0400</pubDate>
+      
+      <guid>http://blockchenlab.github.io/posts/recruiting-lab-members/</guid>
+      <description>The Computational Healthcare Analytics Lab is recruiting new lab members.
+Open Positions Students PhD, Master, and undergraduate students.
+Research Scientist Research staff that are not current students.
+Full Stack Software Engineer Full stack software engineer. Python, SQL, C#.
+Blockchain Engineer Blockchain engineering. Experience with smart contracts.</description>
+    </item>
+    
+    <item>
+      <title>Computational Healthcare Analytics Lab</title>
+      <link>http://blockchenlab.github.io/posts/computational-healthcare-analytics-lab/</link>
+      <pubDate>Sun, 22 Sep 2019 14:54:57 -0400</pubDate>
+      
+      <guid>http://blockchenlab.github.io/posts/computational-healthcare-analytics-lab/</guid>
+      <description> Machine Learning Blockchain
+ Hematology
+ Oncology
+ Pathology
+  </description>
+    </item>
+    
+  </channel>
+</rss>
